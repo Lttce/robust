@@ -1,4 +1,5 @@
 #!/bin/sh
+mkdir -p data/send data/receive
 rm data/send/*
 rm data/receive/*
 rm data/check.md5
